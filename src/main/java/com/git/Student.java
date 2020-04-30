@@ -3,7 +3,7 @@ package com.git;
 public class Student {
 
 	
-	private String name;
+	private String name;    //edit by 3623659671
 
 	public String getName() {
 		return name;
